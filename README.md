@@ -7,5 +7,5 @@
 - 虚拟dom的diff算法
 
 ## 环境
-vscode+live server插件
-调试chrome控制台
+- vscode+live server插件
+- 调试chrome控制台
